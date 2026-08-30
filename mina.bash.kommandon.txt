@@ -1,0 +1,5 @@
+pwd - visar var i filsystemet jag befinner mig
+ls - visar innehållet i den aktuella mappen
+cd - för att byta mapp
+mkdir - skapa en ny mapp 
+touch - skapar en ny fil 
