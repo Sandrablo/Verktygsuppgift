@@ -10,3 +10,7 @@ I visual studio code har jag arbetat med projektet.
 * git init - skapar ett repository
 * git add - lägger till filändringar
 * git commit -m - "Första commit" - sparar ändringar 
+##### repository, commit och versionshistorik
+Repository är en lagringsplats där ett projekts filer, mappar och ändringar sparas.
+Commit är en sparad version av ett projekts filer.
+Versionshistorik är historik över alla ändringa som gjorts i ett projekt.
